@@ -15,7 +15,7 @@ int cal= 23; // inyecta humo
 int luz= 21; // luz
 int chapa=19;// abre puerta chapa electrónica
 int PIR=15;
-int Laser=13; //********************************DEVOLVER A 13 PRA BRIDGE
+int Laser=13; //desde Wemos
 int t_0; // timer inyección de humo
 int t_1; // timer iluminación
 int t_2; // tiempo calefacción máquina humo
