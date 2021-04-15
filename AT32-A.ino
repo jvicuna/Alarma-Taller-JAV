@@ -8,7 +8,7 @@ int Armada;
 int T_1;
 int T_2;
 char auth[] = "c706e092dca442b6af6f32ab05bcb765";
-char ssid[] = "WifiTelsur_JAVC";
+char ssid[] = "WifiVH";
 char pass[] = "12265165";
 int hum = 22; //calienta la máquina
 int cal= 23; // inyecta humo
